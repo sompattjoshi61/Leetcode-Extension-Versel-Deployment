@@ -7,6 +7,6 @@ export const siteConfig: SiteConfig = {
 	url: 'https://algonotebook.vercel.app',
 	links: {
 		website: 'https://buinam.com',
-		github: 'https://github.com/buikhacnam/algo-notebook',
+		github: 'https://github.com/sompattjoshi61/Leetcode-Chrome-Extension',
 	},
 }
