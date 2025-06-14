@@ -137,6 +137,4 @@ The following resources were used as reference for the content of this notebook:
 - https://leetcode.com/problemset/all
 - https://github.com/neetcode-gh/leetcode
 
-## License
 
-MIT
